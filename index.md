@@ -18,7 +18,7 @@
 {% endraw %}
 
 # A
-`omg`! I just figured out why i'm obsessed with triads & pentads. triads in 2004. and gradually pentads suggested themselves to me because triads were struggling to handle the complexity of reality (pentads from 2010-2025). now here it is. a triad; \int E_x dt + \epsilon_x t + C_x (think of as # 5 of a universal pentadic phase process throughout human and civilizational history). when you differentiate it, you get E(t \mid x) + \epsilon (the # 2 phase), second differential is # 3 phase: E_{\bar{x}} \pm \sqrt(d2E_x /dt2). Phase 1 is the scatter, complex, chaotic, even entropic (E, x)
+`omg`! I just figured out why i'm obsessed with triads & pentads. triads in 2004. and gradually pentads suggested themselves to me because triads were struggling to handle the complexity of reality (pentads from 2010-2025). now here it is. a triad; $\int E_x dt + \epsilon_x t + C_x$ (think of as `# 5` of a universal pentadic phase process throughout human and civilizational history). when you differentiate it, you get $E(t \mid x) + \epsilon$ (the `# 2` phase), second differential is `# 3` phase: $E_{\bar{x}} \pm \sqrt(d2E_x /dt2)$. Phase 1 is the scatter, complex, chaotic, even entropic $(E, x)$
 
 ---
 
