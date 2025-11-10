@@ -182,7 +182,7 @@ The septad doesn’t replace the pentad; it *jazzes it*. It lets your cosmos *im
   <iframe
     width="560"
     height="315"
-    src="https://www.youtube.com/embed/oVlpFNzAwWw?start=108&list=RDEMUQZGwTuEetyAIyDHPT78Xw&index=48"
+    src="https://www.youtube.com/embed/XHxdrZ5fF2A?start=40&list=RDEMUQZGwTuEetyAIyDHPT78Xw&index=48"
     title="YouTube video player"
     frameborder="0"
     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
