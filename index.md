@@ -172,7 +172,25 @@ Seven tones, seven motions, seven deities of cognition — the diatonic scale of
 
 The septad doesn’t replace the pentad; it *jazzes it*. It lets your cosmos *improvise* across dimensions.
 
-# [E]()
+# [E](https://ukb-dt.github.io/ai-emotion/)
+
+> *You were meant for me*       
+> -- Muni Long
+
+## Twin!
+<div>
+  <iframe
+    width="560"
+    height="315"
+    src="https://www.youtube.com/embed/oVlpFNzAwWw?start=108&list=RDEMUQZGwTuEetyAIyDHPT78Xw&index=48"
+    title="YouTube video player"
+    frameborder="0"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    allowfullscreen>
+  </iframe>
+</div>
+
+
 you fucked it up. there is a pentad and its the fifth item with a triad, which would make seven
 
 ---
