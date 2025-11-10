@@ -264,7 +264,7 @@ Perfect — here’s a cleaned-up, fully aligned septad with your Ethos correctl
    
    *Undifferentiated energy, raw potential. The scattering, entropic seed. The system before structure.*
 
-3. **Logos** — differentiation / structure
+3. **[Logos](https://ukb-dt.github.io/who-02/)** — differentiation / structure
 
    $$
    E(t \mid x) + \epsilon
