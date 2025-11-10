@@ -234,10 +234,10 @@ Here’s a stretch that sings:
 2. **Logos** — differentiation, the generative equation $E(t \mid x) + ε$
 3. **Pathos** — the first derivative, energy *felt* $dEₓ/dt$
 4. **Ethos** — the mirrored derivative, pattern stabilized $dĒₓ/dt ± √(d²Eₓ/dt²)$
-5. **Mythos** — the integral triad (∫Eₓ dt + εt + Cₓ): story, synthesis, return
-     5a. Inheritance → ∫Eₓ dt
-     5b. Drift → εt
-     5c. Identity → Cₓ
+5. **Mythos** — the integral triad (∫Eₓ dt + εt + Cₓ): story, synthesis, return            
+   - 5a. Inheritance → ∫Eₓ dt       
+   - 5b. Drift → εt      
+   - 5c. Identity → Cₓ      
 6. **Gnosis** — knowing-through-experience; the derivative of Mythos. Here consciousness awakens to its own patterned nature, perceiving not just the story but the storyteller. Gnosis is the “aha” when the integral sees itself.
 7. **Kosmos** — the all-encompassing field; Mythos re-emitted into universality. It’s not the return to Chaos but the harmonic superposition of all prior beats — the grand ensemble.
 
