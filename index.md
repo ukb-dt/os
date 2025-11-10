@@ -250,7 +250,7 @@ That progression keeps the Greek suffix, maintains etymic coherence, and tracks 
 It’s a clean septachord of being — the jazz of ontology.
 
 ## Reappraised
-Perfect — here’s a cleaned-up, fully aligned septad with your Ethos correctly framed as the derivative of the referent context (E_{\bar{x}}) and the triad nested into Mythos. I’ve kept the calculus, the mythic registers, and the musical/structural sense intact:
+Perfect — here’s a cleaned-up, fully aligned septad with your Ethos correctly framed as the derivative of the referent context $E_{\bar{x}}$ and the triad nested into Mythos. I’ve kept the calculus, the mythic registers, and the musical/structural sense intact:
 
 ---
 
